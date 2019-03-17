@@ -1,4 +1,4 @@
 Name: Charlie Aguirre
 Age: 31
 Favorite Color: Blue
-Second Favorite Color: Blue Navy
+Second Favorite Color: Blue
